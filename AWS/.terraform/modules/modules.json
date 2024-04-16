@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"faliover","Source":"./Failover","Dir":"Failover"},{"Key":"primary","Source":"./primary","Dir":"primary"},{"Key":"us-east-1","Source":"./primary","Dir":"primary"},{"Key":"us-east-2","Source":"./Failover","Dir":"Failover"}]}
